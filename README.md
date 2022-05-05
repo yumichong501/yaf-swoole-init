@@ -1,4 +1,4 @@
-# yaf+swoole框架
+# yaf+swoole框架,使用异步处理请求
 ### 使用方式
 #### 部署须知
 ##### 安装composer,swoole
