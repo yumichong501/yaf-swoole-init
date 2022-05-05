@@ -1,0 +1,19 @@
+{
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    },
+    "config": {
+        "secure-http": false
+    },
+    "autoload": {
+        "psr-4": {
+            "application\\": "application/"
+        }
+    },
+    "require": {
+
+    }
+}
